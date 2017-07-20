@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Testing Area Go Away"
+AuthUserFile /var/www/html/project/includes/.htpwd
+require valid-user
